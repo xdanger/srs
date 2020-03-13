@@ -1,2 +1,1 @@
-# surge-rs
-Rule Sets for Surge
+# Rule Sets for Surge
